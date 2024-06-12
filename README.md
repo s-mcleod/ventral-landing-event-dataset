@@ -13,6 +13,5 @@ This dataset contains the following event sequences:
 
 All event sequences were recorded on the Prophesee event camera and all ground truth distances and timestamps were recorded on an Intel RealSense camera.
 
-![alt text](https://github.com/s-mcleod/ventral-landing-event-dataset/edit/main/images/setup.png?raw=true)
-![alt text](https://github.com/s-mcleod/ventral-landing-event-dataset/edit/main/images/high_contrast.png?raw=true)
-![alt text](https://github.com/s-mcleod/ventral-landing-event-dataset/edit/main/images/low_constrast.png?raw=true)
+<img src="images/setup.png?raw=true" width="400"> <img src="images/high_contrast.png?raw=true" width="300"> <img src="images/low_contrast.png?raw=true" width="300">
+
