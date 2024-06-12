@@ -12,3 +12,7 @@ This dataset contains the following event sequences:
 * 1 real event sequence observing the 3D print of a landing surface (Surf3D) of duration ~15 seconds
 
 All event sequences were recorded on the Prophesee event camera and all ground truth distances and timestamps were recorded on an Intel RealSense camera.
+
+![alt text](https://github.com/s-mcleod/ventral-landing-event-dataset/edit/main/setup.png?raw=true)
+![alt text](https://github.com/s-mcleod/ventral-landing-event-dataset/edit/main/high_contrast.png?raw=true)
+![alt text](https://github.com/s-mcleod/ventral-landing-event-dataset/edit/main/low_constrast.png?raw=true)
